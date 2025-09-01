@@ -58,10 +58,4 @@ The following models were compared on the test set:
 
 *(See `notebooks/churn_analysis.ipynb` for all plots.)*
 
----
 
-## 🚀 How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your_username/customer-churn.git
