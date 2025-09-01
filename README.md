@@ -5,24 +5,6 @@ The goal is to analyze the data, compare models, and deploy a model for real-wor
 
 ---
 
-## 📂 Project Structure
-
-customer-churn/
-│── data/
-│ └── WA_Fn-UseC_-Telco-Customer-Churn.csv # dataset
-│── notebooks/
-│ └── churn_analysis.ipynb # exploratory analysis and visualizations
-│── models/
-│ └── churn_model.joblib # saved trained model
-│── src/
-│ ├── train.py # training script
-│ └── predict.py # script for predicting new data
-│── README.md
-│── requirements.txt
-
-
-
----
 
 ## 🛠 Technologies Used
 
